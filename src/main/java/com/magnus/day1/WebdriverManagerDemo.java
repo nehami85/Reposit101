@@ -13,6 +13,7 @@ public class WebdriverManagerDemo {
 			Thread.sleep(2000);
 			driver.close();
 			driver.quit();
+			//Added by pratik dubey@ 5:48 PM EST
 }
 }
 
